@@ -6,6 +6,7 @@ import Education from "../pages/education/EducationComponent";
 import Opensource from "../pages/opensource/Opensource";
 import Contact from "../pages/contact/ContactComponent";
 import Projects from "../pages/projects/Projects";
+import Design from "../pages/designs/Design";
 import { settings } from "../portfolio.js";
 
 export default class Main extends Component {
@@ -28,13 +29,13 @@ export default class Main extends Component {
                 path="/home"
                 render={(props) => <Home {...props} theme={this.props.theme} />}
               />
-              {/* <Route
-                path="/experience"
+              <Route
+                path="/design"
                 exact
                 render={(props) => (
-                  <Experience {...props} theme={this.props.theme} />
+                  <Design {...props} theme={this.props.theme} />
                 )}
-              /> */}
+              /> 
               <Route
                 path="/education"
                 render={(props) => (
@@ -83,13 +84,13 @@ export default class Main extends Component {
                 path="/home"
                 render={(props) => <Home {...props} theme={this.props.theme} />}
               />
-              {/* <Route
-                path="/experience"
+              <Route
+                path="/design"
                 exact
                 render={(props) => (
-                  <Experience {...props} theme={this.props.theme} />
+                  <Design {...props} theme={this.props.theme} />
                 )}
-              /> */}
+              /> 
               <Route
                 path="/education"
                 render={(props) => (

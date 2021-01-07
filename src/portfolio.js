@@ -1,6 +1,4 @@
-/* Change this file to get your personal Porfolio */
 
-import { NoFragmentCycles } from "graphql/validation/rules/NoFragmentCycles";
 
 // Website related settings
 const settings = {
@@ -202,11 +200,26 @@ const degrees = {
       alt_name: "IIITS Chitoor",
       duration: "2019 - Present",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OC, COS, AI etc.",
+        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OC, COS, AI ,ML etc.",
         "⚡ Apart from this, I have done courses on Web Development , UI Development.",
       ],
       website_link: "http://iiits.ac.in",
     },
+  ],
+  highSchool: [
+    {
+      title: "FIITJEE Junior College",
+      subtitle: "MPC",
+      logo_path: "fiitjee.jpg",
+      alt_name: "FIITJEE Jr. College",
+      duration: "2017-2019",
+      descriptions: [
+      
+        " "
+      ],
+      website_link: "https://www.fiitjee.com/",
+    }
+
   ],
 };
 

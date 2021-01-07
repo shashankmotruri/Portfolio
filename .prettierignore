@@ -3,4 +3,5 @@ images
 node_modules
 build
 public
+.env
 *.json

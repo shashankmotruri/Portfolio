@@ -1,0 +1,30 @@
+.design-main{
+    width: 100vw;
+    text-align: center;
+}
+.posters-container , .logos-container{
+    max-width: 1480px;
+}
+.posters,.logos{
+    display: inline-block;
+    margin: 1em;
+}
+.videos-container{
+    max-width: 1480px;
+}
+.video{
+    display: inline-block;
+    margin: 1em;
+
+}
+.logos{
+    background-color: black;
+}
+.choice-btns{
+    display: inline-block;
+    margin-left: 5em;
+}
+.choice-btns > div{
+    display: inline-block !important;
+    margin: 0.5em;
+}
