@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "773b44364a2dc792755b95c5368f030a",
+    "revision": "cf1eb33a707ce220a2789103ff763b20",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "eef0d3d6d996d6a89fc5",
-    "url": "/Portfolio/static/css/main.2ff6f497.chunk.css"
+    "revision": "e75434eb2b230f812caa",
+    "url": "/Portfolio/static/css/main.f3a5b659.chunk.css"
   },
   {
-    "revision": "9564b1f64a9744031eac",
-    "url": "/Portfolio/static/js/2.c778c529.chunk.js"
+    "revision": "fa25e9b4673385e530db",
+    "url": "/Portfolio/static/js/2.5bb25620.chunk.js"
   },
   {
-    "revision": "eef0d3d6d996d6a89fc5",
-    "url": "/Portfolio/static/js/main.4981e4bf.chunk.js"
+    "revision": "e75434eb2b230f812caa",
+    "url": "/Portfolio/static/js/main.383bf0b0.chunk.js"
   },
   {
     "revision": "d9a73b26f6e667fba827",
@@ -28,8 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/Agustina.21f233e1.woff"
   },
   {
+    "revision": "de0a2daf463b8b0e5949a5946b824b37",
+    "url": "/Portfolio/static/media/ArtBoard.de0a2daf.png"
+  },
+  {
     "revision": "ace781a00356a0c100302beaead550fe",
     "url": "/Portfolio/static/media/Comic_IEEE.ace781a0.mp4"
+  },
+  {
+    "revision": "769570b36519449a6175401e705a38ee",
+    "url": "/Portfolio/static/media/Dashboard.769570b3.png"
   },
   {
     "revision": "588aa6047cd7e5581843243f06e0272c",
@@ -70,6 +78,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fb4e6657ab6c43c2d2e4e38200db9ad2",
     "url": "/Portfolio/static/media/IEEE.fb4e6657.mp4"
+  },
+  {
+    "revision": "505433c1fa472fe69bc6782755c962d0",
+    "url": "/Portfolio/static/media/LoginPage.505433c1.png"
   },
   {
     "revision": "105df13e3e2b746bbdf41007245c45a8",
@@ -298,5 +310,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2b0e4efcb0a2642595d0fcfa2fe6ed76",
     "url": "/Portfolio/static/media/ui_ux_design.2b0e4efc.svg"
+  },
+  {
+    "revision": "452f840290c94e457044722964c5f953",
+    "url": "/Portfolio/static/media/uixzone.452f8402.png"
   }
 ]);
