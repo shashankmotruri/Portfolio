@@ -1,19 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf1eb33a707ce220a2789103ff763b20",
+    "revision": "7f733ea42df59b54400743ca608dda60",
     "url": "/Portfolio/index.html"
   },
   {
-    "revision": "e75434eb2b230f812caa",
-    "url": "/Portfolio/static/css/main.f3a5b659.chunk.css"
+    "revision": "bf9c3ceabe6fc4f2a36e",
+    "url": "/Portfolio/static/css/2.22ca87da.chunk.css"
   },
   {
-    "revision": "fa25e9b4673385e530db",
-    "url": "/Portfolio/static/js/2.5bb25620.chunk.js"
+    "revision": "cbc48ac938a695f75ad8",
+    "url": "/Portfolio/static/css/main.e23c9577.chunk.css"
   },
   {
-    "revision": "e75434eb2b230f812caa",
-    "url": "/Portfolio/static/js/main.383bf0b0.chunk.js"
+    "revision": "bf9c3ceabe6fc4f2a36e",
+    "url": "/Portfolio/static/js/2.c1a79ea8.chunk.js"
+  },
+  {
+    "revision": "cbc48ac938a695f75ad8",
+    "url": "/Portfolio/static/js/main.1947262b.chunk.js"
   },
   {
     "revision": "d9a73b26f6e667fba827",
@@ -30,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "de0a2daf463b8b0e5949a5946b824b37",
     "url": "/Portfolio/static/media/ArtBoard.de0a2daf.png"
+  },
+  {
+    "revision": "b17b86cfa46ae9ddf76ac09e04b3628e",
+    "url": "/Portfolio/static/media/Charging-Dashboard.b17b86cf.png"
   },
   {
     "revision": "ace781a00356a0c100302beaead550fe",
@@ -76,6 +84,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portfolio/static/media/GoogleSans-Regular.b5c77a6a.ttf"
   },
   {
+    "revision": "015577bed07e5d0c90dfc09a6534da1f",
+    "url": "/Portfolio/static/media/HomePage.015577be.png"
+  },
+  {
+    "revision": "2ab924d53af55097050ce1399bd5a880",
+    "url": "/Portfolio/static/media/HomePage2.2ab924d5.png"
+  },
+  {
     "revision": "fb4e6657ab6c43c2d2e4e38200db9ad2",
     "url": "/Portfolio/static/media/IEEE.fb4e6657.mp4"
   },
@@ -90,6 +106,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/Portfolio/static/media/Montserrat-Regular.ee653992.ttf"
+  },
+  {
+    "revision": "eed15ebd1967756f1c23a6e7d1a9c999",
+    "url": "/Portfolio/static/media/Operator-Booking.eed15ebd.png"
   },
   {
     "revision": "39469ca1f12f36c131386f5194c39281",
@@ -310,9 +330,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2b0e4efcb0a2642595d0fcfa2fe6ed76",
     "url": "/Portfolio/static/media/ui_ux_design.2b0e4efc.svg"
-  },
-  {
-    "revision": "452f840290c94e457044722964c5f953",
-    "url": "/Portfolio/static/media/uixzone.452f8402.png"
   }
 ]);
